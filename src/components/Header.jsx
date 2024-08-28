@@ -68,13 +68,13 @@ const Header = () => {
         </nav>
 
         <a
-          href="#signup"
+          href="https://kartelam.com/tr/login#/register"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
-          New account
+          Kayıt Ol
         </a>
-        <Button className="hidden lg:flex" href="#login">
-          Sign in
+        <Button className="hidden lg:flex" href="https://kartelam.com/tr/login">
+          GİRİŞ YAP
         </Button>
 
         <Button

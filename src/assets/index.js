@@ -1,6 +1,6 @@
 import brainwave from "./brainwave.svg";
 import check from "./check.svg";
-import brainwaveSymbol from "./brainwave-symbol.svg";
+import brainwaveSymbol from "./brainwave-symbol.png";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
@@ -8,7 +8,11 @@ import smallSphere from "./4-small.png";
 import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
-import yourlogo from "./yourlogo.svg";
+import yourlogo1 from "./yourlogo1.png";
+import yourlogo2 from "./yourlogo2.png";
+import yourlogo3 from "./yourlogo3.png";
+import yourlogo4 from "./yourlogo4.png";
+import yourlogo5 from "./yourlogo5.png";
 import homeSmile from "./home-smile.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -29,12 +33,12 @@ import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
 import discord from "./collaboration/discord.png";
 import figma from "./collaboration/figma.png";
-import framer from "./collaboration/framer.png";
-import notion from "./collaboration/notion.png";
-import photoshop from "./collaboration/photoshop.png";
-import protopie from "./collaboration/protopie.png";
-import raindrop from "./collaboration/raindrop.png";
-import slack from "./collaboration/slack.png";
+import aws from "./collaboration/aws.png";
+import azure from "./collaboration/azure.png";
+import openai from "./collaboration/openai.png";
+import cloudflare from "./collaboration/cloudflare.png";
+import google from "./collaboration/google.png";
+import kubernetes from "./collaboration/kubernetes.png";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -68,6 +72,11 @@ import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
+import benefitImage3 from "./benefits/image-3.png";
+import benefitImage4 from "./benefits/image-4.png";
+import benefitImage5 from "./benefits/image-5.png";
+import benefitImage6 from "./benefits/image-6.png";
+import benefitImage7 from "./benefits/image-7.png";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -86,7 +95,11 @@ export {
   gradient,
   smallSphere,
   grid,
-  yourlogo,
+  yourlogo1,
+  yourlogo2,
+  yourlogo3,
+  yourlogo4,
+  yourlogo5,
   homeSmile,
   file02,
   searchMd,
@@ -105,12 +118,12 @@ export {
   curve2,
   discord,
   figma,
-  framer,
-  notion,
-  photoshop,
-  protopie,
-  raindrop,
-  slack,
+  aws,
+  azure,
+  openai,
+  cloudflare,
+  google,
+  kubernetes,
   service1,
   service2,
   service3,
@@ -139,6 +152,11 @@ export {
   benefitIcon3,
   benefitIcon4,
   benefitImage2,
+  benefitImage3,
+  benefitImage4,
+  benefitImage5,
+  benefitImage6,
+  benefitImage7,
   discordBlack,
   facebook,
   instagram,

@@ -12,8 +12,8 @@ const Pricing = () => {
           <img
             src={smallSphere}
             className="relative z-1"
-            width={255}
-            height={255}
+            width={300}
+            height={300}
             alt="Sphere"
           />
           <div className="absolute top-1/2 left-1/2 w-[60rem] -translate-x-1/2 -translate-y-1/2 pointer-events-none">
@@ -28,8 +28,8 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
-          title="Pay once, use forever"
+          tag="KARTELAM ABONELİĞİNİZİ HEMEN BAŞLATALIM"
+          title="Yıllık ödeme ile tasarruf edin"
         />
 
         <div className="relative">
@@ -43,7 +43,7 @@ const Pricing = () => {
             className="text-xs font-code font-bold tracking-wider uppercase border-b"
             href="/pricing"
           >
-            See the full details
+            TÜM DETAYLAR İÇİN TIKLAYIN
           </a>
         </div>
       </div>
